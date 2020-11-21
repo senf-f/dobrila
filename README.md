@@ -4,11 +4,14 @@
  - Chrome v86+
  - Java 11
  - Maven
- - Add java and maven to PATH
-(tested on Windows 10).
+ - Add Java and Maven to PATH
+ 
+(tested on Windows 10)
  
 ## Instructions:
-Clone the project, go to project folder and from terminal run
+ - clone the project
+ - go to project folder 
+ - from terminal run
 `mvn clean`
-and then
+ - and then
 `mvn -Dtest=WikipediaAutomation test`.
