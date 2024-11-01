@@ -1,4 +1,4 @@
-# Dobrila Wikipeda search
+# Dobrila Wikipedia search
 
 ## Requirements:
  - Chrome v86+
